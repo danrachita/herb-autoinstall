@@ -13,9 +13,10 @@ Send 10000 HERB to the MN_ADDRESS
 Open Debug console.
 In the debug console command box enter the:
 
-masternode genkey
+<th>masternode genkey</th>
 
-masternode outputs
+<th>masternode outputs</th>
+
 
 Edit masternode.conf file.
 Find your masternode.conf file:
