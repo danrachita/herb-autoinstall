@@ -2,11 +2,11 @@
 
 Open up an SSH client (Putty) then Register & Log in to your VPS as root. Ubuntu(16.04) VPS is recommended.
 
-wget https://raw.githubusercontent.com/soybtc/HERB/master/autoinstall.sh 
+# wget https://raw.githubusercontent.com/soybtc/HERB/master/autoinstall.sh 
 
-chmod 755 autoinstall.sh
+# chmod 755 autoinstall.sh
 
-./autoinstall.sh
+# ./autoinstall.sh
 
 Autosetup script will ask for MN_GENKEY
 
@@ -19,10 +19,10 @@ Open Debug console.
 In the debug console command box enter the:
 
 
-masternode genkey
+# masternode genkey
 
 
-masternode outputs
+# masternode outputs
 
 
 
