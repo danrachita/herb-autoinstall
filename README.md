@@ -2,7 +2,7 @@
 
 Open up an SSH client (Putty) then Register & Log in to your VPS as root. Ubuntu(16.04) VPS is recommended.
 ```
-wget https://raw.githubusercontent.com/danrachita/herbcoin/master/autoinstall.sh 
+wget https://raw.githubusercontent.com/danrachita/herb/master/autoinstall.sh 
 ```
 ```
 chmod 755 autoinstall.sh
