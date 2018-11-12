@@ -2,7 +2,7 @@
 
 Open up an SSH client (Putty) then Register & Log in to your VPS as root. Ubuntu(16.04) VPS is recommended.
 ```
-wget https://raw.githubusercontent.com/danrachita/herb/autoinstall.sh 
+wget https://raw.githubusercontent.com/danrachita/herb-autoinstall/autoinstall.sh 
 ```
 ```
 chmod 755 autoinstall.sh
