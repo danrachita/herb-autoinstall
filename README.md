@@ -32,7 +32,7 @@ Edit masternode.conf file.
 
 Find your masternode.conf file:
 
-c:\Users\username\AppData\Roaming\herb (windows)
+c:\Users\username\AppData\Roaming\HERB (windows)
 
 Open masternode.conf with Notepad
 
